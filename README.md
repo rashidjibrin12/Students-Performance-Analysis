@@ -49,7 +49,8 @@ The report includes several visualizations to support the analysis, including:
    - A visual representation of how student results vary across different parental education backgrounds.
   
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/cb380674-183c-4c5b-9ff3-ef8743ba6012" />
+<img width="800" height="500" alt="{7A2E71BA-9404-4C50-8597-DA541BFF490A}" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
+
 
 
 3. Feature importance chart from machine learning models
