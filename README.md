@@ -14,6 +14,9 @@ By examining variables such as gender, ethnicity, parental level of education, l
 - Matplotlib
 - Scikit-learn
 - Google Colab notebook environment
+- Linear and Logistic Regression
+- Random Forest and Gradient Booster
+- SHAP and Feature Importance
 
 ## Business Question
 
@@ -30,6 +33,7 @@ The project uses the Students Performance in Exams dataset, which contains stude
 - Math Score
 - Reading Score
 - Writing Score
+- Average Score and Pass-Fail was newly created
 
 This dataset was used to analyze both overall student performance and the relationship between demographic/socioeconomic variables and exam results.
 
