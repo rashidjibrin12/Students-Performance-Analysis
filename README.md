@@ -52,7 +52,8 @@ The report includes several visualizations to support the analysis, including:
 
 <br/>
 
-<img width="700" alt="Average scores by factors" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
+<img width="700" alt="{AB6852BE-00FB-4611-BDDD-AD857A1D8B07}" src="https://github.com/user-attachments/assets/e0d94c92-ebda-407f-9213-d8edab3c9d8e" />
+
 
 <br/>
 <br/>
