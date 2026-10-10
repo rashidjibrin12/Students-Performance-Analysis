@@ -41,7 +41,7 @@ The report includes several visualizations to support the analysis, including:
    - A comparative chart showing differences in math, reading, and writing performance between male and female students.
   
 
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/b51388c0-7f17-4c74-99fa-3eeaeb4eea07" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/b51388c0-7f17-4c74-99fa-3eeaeb4eea07" />
 
 
 
@@ -49,7 +49,7 @@ The report includes several visualizations to support the analysis, including:
    - A visual representation of how student results vary across different parental education backgrounds.
   
 
-<img width="800" height="500" alt="{7A2E71BA-9404-4C50-8597-DA541BFF490A}" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
+<img width="800" height="600" alt="{7A2E71BA-9404-4C50-8597-DA541BFF490A}" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
 
 
 
