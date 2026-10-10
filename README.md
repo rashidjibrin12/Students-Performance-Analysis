@@ -1,8 +1,8 @@
 ## Project Overview
 
-This project analyzes how demographic and socioeconomic factors influence students' performance in math, reading, and writing exams. The goal is to uncover patterns in academic achievement and identify which factors are most strongly associated with success or underperformance.
+This project analyzes how demographic and socioeconomic factors influence students' performance in math, reading, and writing exams. The goal is to uncover patterns in academic achievement and identify key drivers of success.
 
-By examining variables such as gender, ethnicity, parental level of education, lunch type, and test preparation course participation, the analysis highlights key drivers of student outcomes. The project combines data cleaning, exploratory analysis, statistical testing, and machine learning to provide both descriptive and predictive insights.
+By examining variables such as gender, ethnicity, parental level of education, lunch type, and test preparation course participation, the analysis highlights key drivers of student outcomes. The project provides insights into how different factors contribute to academic performance.
 
 ## Tools Used
 
@@ -40,51 +40,17 @@ The report includes several visualizations to support the analysis, including:
 1. Average exam scores by gender
    - A comparative chart showing differences in math, reading, and writing performance between male and female students.
 
+<img width="700" alt="Average exam scores by gender" src="https://github.com/user-attachments/assets/b51388c0-7f17-4c74-99fa-3eeaeb4eea07" />
 
-
-
-  
-
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/b51388c0-7f17-4c74-99fa-3eeaeb4eea07" />
-
-
-
-
-
-
-3. Score distribution by parental education level
+2. Score distribution by parental education level
    - A visual representation of how student results vary across different parental education backgrounds.
 
-
-
-
-
-  
-
-<img width="800" height="600" alt="{7A2E71BA-9404-4C50-8597-DA541BFF490A}" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
-
-
-
-
-
-
+<img width="700" alt="Score distribution by parental education level" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
 
 3. Feature importance chart from machine learning models
    - A bar chart showing which variables contribute most to predicting student outcomes, such as lunch type, parental education, and test preparation.
 
-
-
-
-
-  
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/8957a76e-6c59-40cd-9d57-5e02728c00d3" />
-
-
-
-
-
-
-
+<img width="700" alt="Feature importance chart" src="https://github.com/user-attachments/assets/8957a76e-6c59-40cd-9d57-5e02728c00d3" />
 
 ## Key Findings
 
@@ -98,4 +64,4 @@ The report includes several visualizations to support the analysis, including:
 ## About Me
 **Abdulrashid Jibrin**
 
-I am a data-driven and detail-oriented analyst with a strong interest in analytics, business intelligence, and decision-making through data. I enjoy transforming raw data into meaningful insights that can inform strategy and improve outcomes.
+I am a data-driven and detail-oriented analyst with a strong interest in analytics, business intelligence, and decision-making through data. I enjoy transforming raw data into meaningful insights that lead to actionable recommendations.
