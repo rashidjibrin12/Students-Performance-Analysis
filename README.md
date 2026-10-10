@@ -57,5 +57,5 @@ The report includes several visualizations to support the analysis, including:
 - Machine learning analysis showed that factors such as parental education, lunch type, and test preparation were among the most influential predictors of academic success.
 
 ## About Me
-
-I am a data-driven and detail-oriented analyst with a strong interest in education analytics, business intelligence, and decision-making through data. I enjoy transforming raw data into meaningful insights that can inform strategy and improve outcomes. This project reflects my passion for using data analysis and machine learning to solve real-world problems and communicate results clearly through visual storytelling.
+**Abdulrashid Jibrin**
+I am a data-driven and detail-oriented analyst with a strong interest in analytics, business intelligence, and decision-making through data. I enjoy transforming raw data into meaningful insights that can inform strategy and improve outcomes.
