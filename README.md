@@ -10,6 +10,18 @@ By examining variables such as gender, ethnicity, parental level of education, l
 
 How do factors such as gender, parental education, ethnicity, lunch type, and test preparation impact student performance in exams, and which of these factors are the strongest predictors of academic success?
 
+## Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Descriptive Statistics and Distribution Analysis
+- Hypothesis Testing and Statistical Inference
+- Feature Engineering and Data Transformation
+- Data Visualization with Matplotlib and Seaborn
+- Predictive Modeling with Scikit-learn
+- Model Evaluation and Feature Importance Analysis
+- Business Insight Generation and Reporting
+
 ## Tools Used
 
 - Python
