@@ -55,7 +55,8 @@ The report includes several visualizations to support the analysis, including:
 <br/>
 
 
-<img width="700" alt="Score distribution by parental education level" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
+<img width="700" alt="{AB6852BE-00FB-4611-BDDD-AD857A1D8B07}" src="https://github.com/user-attachments/assets/1cb00e81-21e2-474a-a2d3-f3073d0e42cb" />
+
 
 
 <br/>
