@@ -57,4 +57,5 @@ The report includes several visualizations to support the analysis, including:
 
 ## About Me
 **Abdulrashid Jibrin**
+
 I am a data-driven and detail-oriented analyst with a strong interest in analytics, business intelligence, and decision-making through data. I enjoy transforming raw data into meaningful insights that can inform strategy and improve outcomes.
