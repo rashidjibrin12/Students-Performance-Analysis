@@ -1,3 +1,5 @@
+# Students Performance Analysis
+
 ## Project Overview
 
 This project analyzes how demographic and socioeconomic factors influence students' performance in math, reading, and writing exams. The goal is to uncover patterns in academic achievement and identify key drivers of success.
@@ -55,8 +57,7 @@ The report includes several visualizations to support the analysis, including:
 
 <br/>
 
-<img width="700" alt="{AB6852BE-00FB-4611-BDDD-AD857A1D8B07}" src="https://github.com/user-attachments/assets/e0d94c92-ebda-407f-9213-d8edab3c9d8e" />
-
+<img width="700" alt="Average scores by factors" src="https://github.com/user-attachments/assets/e0d94c92-ebda-407f-9213-d8edab3c9d8e" />
 
 <br/>
 <br/>
