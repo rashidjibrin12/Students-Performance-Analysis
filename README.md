@@ -18,9 +18,6 @@ How do factors such as gender, parental education, ethnicity, lunch type, and te
 - Matplotlib
 - Scikit-learn
 - Google Colab notebook environment
-- Linear and Logistic Regression
-- Random Forest and Gradient Boosting
-- SHAP and Feature Importance
 
 ## Dataset
 
