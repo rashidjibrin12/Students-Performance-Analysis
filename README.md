@@ -47,40 +47,25 @@ The report includes several visualizations to support the analysis, including:
 <br/>
 <br/>
 
-
-2. Score distribution by factors
-   - A visual representation of how student results considering by different factors.
-
+2. Average scores by factors
+   - This chart displays average math, reading, and writing scores broken down by key factors including test preparation courses, lunch type, parental education level, and race/ethnicity, showing how each factor influences overall student performance.
 
 <br/>
 
-
-<img width="700" alt="{AB6852BE-00FB-4611-BDDD-AD857A1D8B07}" src="https://github.com/user-attachments/assets/1cb00e81-21e2-474a-a2d3-f3073d0e42cb" />
-
-
+<img width="700" alt="Average scores by factors" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
 
 <br/>
 <br/>
-
 
 3. Feature importance chart from machine learning models
    - A bar chart showing which variables contribute most to predicting student outcomes, such as lunch type, parental education, and test preparation.
 
-
-
 <br/>
-
-
 
 <img width="700" alt="Feature importance chart" src="https://github.com/user-attachments/assets/8957a76e-6c59-40cd-9d57-5e02728c00d3" />
 
-
-
 <br/>
 <br/>
-
-
-
 
 ## Key Findings
 
