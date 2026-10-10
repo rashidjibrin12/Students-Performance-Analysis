@@ -40,17 +40,29 @@ The report includes several visualizations to support the analysis, including:
 1. Average exam scores by gender
    - A comparative chart showing differences in math, reading, and writing performance between male and female students.
 
+<br/>
+
 <img width="700" alt="Average exam scores by gender" src="https://github.com/user-attachments/assets/b51388c0-7f17-4c74-99fa-3eeaeb4eea07" />
+
+<br/>
 
 2. Score distribution by parental education level
    - A visual representation of how student results vary across different parental education backgrounds.
 
+<br/>
+
 <img width="700" alt="Score distribution by parental education level" src="https://github.com/user-attachments/assets/cea75f57-6be0-4062-9653-83f044535f15" />
+
+<br/>
 
 3. Feature importance chart from machine learning models
    - A bar chart showing which variables contribute most to predicting student outcomes, such as lunch type, parental education, and test preparation.
 
+<br/>
+
 <img width="700" alt="Feature importance chart" src="https://github.com/user-attachments/assets/8957a76e-6c59-40cd-9d57-5e02728c00d3" />
+
+<br/>
 
 ## Key Findings
 
