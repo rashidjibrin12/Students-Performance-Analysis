@@ -46,6 +46,10 @@ The report includes several visualizations to support the analysis, including:
 3. Feature importance chart from machine learning models
    - A bar chart showing which variables contribute most to predicting student outcomes, such as lunch type, parental education, and test preparation.
 
+  
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/8957a76e-6c59-40cd-9d57-5e02728c00d3" />
+
+
 ## Key Findings
 
 - Female students performed better overall than male students in reading and writing, while math scores were closer across genders.
