@@ -17,6 +17,8 @@ How do factors such as gender, parental education, ethnicity, lunch type, and te
 - Seaborn
 - Matplotlib
 - Scikit-learn
+- Scipy
+- Statsmodels
 - Google Colab notebook environment
 
 ## Dataset
