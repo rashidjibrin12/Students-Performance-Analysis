@@ -4,6 +4,10 @@ This project analyzes how demographic and socioeconomic factors influence studen
 
 By examining variables such as gender, ethnicity, parental level of education, lunch type, and test preparation course participation, the analysis highlights key drivers of student outcomes. The project provides insights into how different factors contribute to academic performance.
 
+## Business Question
+
+How do factors such as gender, parental education, ethnicity, lunch type, and test preparation impact student performance in exams, and which of these factors are the strongest predictors of academic success?
+
 ## Tools Used
 
 - Python
@@ -17,10 +21,6 @@ By examining variables such as gender, ethnicity, parental level of education, l
 - Linear and Logistic Regression
 - Random Forest and Gradient Boosting
 - SHAP and Feature Importance
-
-## Business Question
-
-How do factors such as gender, parental education, ethnicity, lunch type, and test preparation impact student performance in exams, and which of these factors are the strongest predictors of academic success?
 
 ## Dataset
 
