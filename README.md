@@ -2,7 +2,7 @@
 
 This project analyzes how demographic and socioeconomic factors influence students' performance in math, reading, and writing exams. The goal is to uncover patterns in academic achievement and identify which factors are most strongly associated with success or underperformance.
 
-By examining variables such as gender, race/ethnicity, parental level of education, lunch type, and test preparation course participation, the analysis highlights key drivers of student outcomes. The project combines data cleaning, exploratory analysis, statistical testing, and machine learning to provide both descriptive and predictive insights.
+By examining variables such as gender, ethnicity, parental level of education, lunch type, and test preparation course participation, the analysis highlights key drivers of student outcomes. The project combines data cleaning, exploratory analysis, statistical testing, and machine learning to provide both descriptive and predictive insights.
 
 ## Tools Used
 
@@ -13,8 +13,7 @@ By examining variables such as gender, race/ethnicity, parental level of educati
 - Seaborn
 - Matplotlib
 - Scikit-learn
-- Google Colab / notebook environment
-- Microsoft Word (.docx report export)
+- Google Colab notebook environment
 
 ## Business Question
 
