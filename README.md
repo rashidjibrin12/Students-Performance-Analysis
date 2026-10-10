@@ -15,7 +15,7 @@ By examining variables such as gender, ethnicity, parental level of education, l
 - Scikit-learn
 - Google Colab notebook environment
 - Linear and Logistic Regression
-- Random Forest and Gradient Booster
+- Random Forest and Gradient Boosting
 - SHAP and Feature Importance
 
 ## Business Question
