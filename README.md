@@ -48,8 +48,8 @@ The report includes several visualizations to support the analysis, including:
 <br/>
 
 
-2. Score distribution by parental education level
-   - A visual representation of how student results vary across different parental education backgrounds.
+2. Score distribution by factors
+   - A visual representation of how student results considering by different factors.
 
 
 <br/>
